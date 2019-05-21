@@ -1,3 +1,3 @@
 # SinauGit
-##Kanggo Masa Depan 
-###Ing kang kawulo 
+## Kanggo Masa Depan 
+### Ing kang kawulo 
